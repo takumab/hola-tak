@@ -1,5 +1,9 @@
 require "hola/version"
 
-module Hola
-  # Your code goes here...
+module HolaTak
+  class HolaTak
+    def self.hi
+      puts 'Hello world!'
+    end
+  end
 end

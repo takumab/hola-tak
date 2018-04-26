@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    hola (0.1.0)
+    hola_tak (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -14,7 +14,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.16)
-  hola!
+  hola_tak!
   minitest (~> 5.0)
   rake (~> 10.0)
 

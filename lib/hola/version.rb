@@ -1,3 +1,3 @@
-module Hola
+module HolaTak
   VERSION = "0.1.0"
 end
