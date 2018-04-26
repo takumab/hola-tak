@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "First gem"
   spec.description   = "Hello world ruby gem"
-  spec.homepage      = "https://github.com/takumab/hola-tak.git"
+  spec.homepage      = 'https://github.com/takumab/hola-tak'
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
