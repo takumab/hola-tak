@@ -4,8 +4,8 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "hola/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "hola"
-  spec.version       = Hola::VERSION
+  spec.name          = "hola_tak"
+  spec.version       = HolaTak::VERSION
   spec.authors       = ["Tacuma Bell"]
   spec.email         = ["takumab@gmail.com"]
 
